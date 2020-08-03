@@ -9,7 +9,7 @@ def second_challenge
     :capulet => {
       :patriarch => {},
       :matriarch => {},
-      :herine => {},
+      :heroine => {},
       :hero_friends => []#your key/value pairs here!
       }}
 
